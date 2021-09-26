@@ -231,4 +231,8 @@ class Admin extends CI_Controller
             $this->rekamMedis_model->gantiPassword();
         }
     }
+
+    public function ab()
+    {
+    }
 }
